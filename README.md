@@ -1,4 +1,4 @@
-# GlacierFaciesAlgorithm
+# Glacier Facies Algorithm
 Automated classification algorithm of glacial facies based on Zeller (2020) GEE version
 
 FaciesMapBatch its the main code
