@@ -30,7 +30,7 @@ ee.Initialize()
 
 # Import the ad-hoc modules to create the facies maps and extract the SLA
 # from sla.prep_final32 import PreProcessor  # noqa
-from sla.prep_final4 import PreProcessor  # noqa
+from sla.prep_final_jcgtV1 import PreProcessor  # noqa
 from sla.cloud_shadow_mask import add_cloud_shadow  # noqa
 from sla.hill_shadow import add_hill_shadow  # noqa
 from sla.classifier import decision_tree  # noqa
