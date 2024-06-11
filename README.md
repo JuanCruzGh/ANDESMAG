@@ -3,4 +3,4 @@ Automated classification algorithm of glacial facies based on Zeller (2020) GEE 
 
 FaciesMapBatch_jcgtV2 its the main code.
 
-** Aclaration: main_patches_debris_jcgtV4 is the new module that fixes the problem with the output ‘{AVS_DSM: xxx_number_xxx}’ in both the debris emergence altitude and standard deviations (SLA and DEA). **
+*Aclaration: main_patches_debris_jcgtV4 is the new module that fixes the problem with the output ‘{AVS_DSM: xxx_number_xxx}’ in both the debris emergence altitude and standard deviations (SLA and DEA).*
