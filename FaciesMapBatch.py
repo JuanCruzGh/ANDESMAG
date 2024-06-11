@@ -1,4 +1,6 @@
 """
+    OLD CODE: SEE FaciesMapBatch_jcgtV2.py
+    
     Main code to process, make the facies map, and extract the SLA (snow Line Altitude)
     for glacier larger than 0.1 k2 from the National Glacier Inventory of Argentina.
     """
