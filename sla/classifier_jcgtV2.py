@@ -56,7 +56,7 @@ def rescale(img, exp, thresholds):
 
 def add_true_hill_shadow(img, elevation, crs_transform):
     """
-    TODO
+    TO DO
     """
 
     right_angle = ee.Number(90)
@@ -125,7 +125,9 @@ def decision_tree(image, SRTM, ING, THRESHOLD_DECISION_TREE): # ADAPT (!); TR (!
     dummy_hill_shadow = add_dummy_hill_shadow(img=image_3, geometry=geometry)
 
     image_with_hill_shadow = ee.Algorithms.If(
-        hsboolean, true_hill_shadow, dummy_hill_shadow
+        # hsboolean, true_hill_shadow, dummy_hill_shadow
+        hsboolean, dummy_hill_shadow, true_hill_shadow
+
     )
 
     image_4 = ee.Image(image_with_hill_shadow)
