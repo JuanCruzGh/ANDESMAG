@@ -26,7 +26,7 @@ from sla.prep_final_jcgtV2 import PreProcessor  # ADAPT (!); TR (!)
 from sla.cloud_shadow_mask_jcgtV2 import add_cloud_shadow  # ADAPT (!); TR (!)
 from sla.hill_shadow_jcgtV2 import add_hill_shadow # ADAPT (!); TR(!)
 from sla.classifier_jcgtV2 import decision_tree  # ADAPT (!); TR (!)
-from sla.main_patches_debris_jcgtV4 import extract_sla_patch  # ADAPT (!); TR(!)
+from sla.main_patches_debris_jcgtV5 import extract_sla_patch  # ADAPT (!); TR(!)
 from sla.delete_duplicate_jcgtV2 import no_duplicate # ADAPT (!); TR(!)
 
 #%% 
