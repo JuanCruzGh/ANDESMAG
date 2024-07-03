@@ -1,4 +1,6 @@
-![image](https://github.com/JuanCruzGh/GlacierFaciesAlgorithm/assets/87556377/d2c2a253-ba35-4024-b432-9eba842c5cf8)
+<div align="center">
+  <img src="https://github.com/JuanCruzGh/GlacierFaciesAlgorithm/assets/87556377/d2c2a253-ba35-4024-b432-9eba842c5cf8" alt="image">
+</div>
 
 # Glacier Facies Algorithm versión jcgt_V2 (threshold_fixed)
 Automated classification algorithm of glacial facies based on Zeller (2020) GEE version. In this version (jcgtV2) you can modify the classification thresholds directly in the main code (FaciesMapBatch_jcgtV2.py). Also the input of DEMs and the asset with glacier boundaries are in the main code. 
