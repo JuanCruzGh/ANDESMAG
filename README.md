@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/JuanCruzGh/GlacierFaciesAlgorithm/assets/87556377/7c69e04e-97b1-4d16-9121-0cc746739e28" alt="image">
+  <img src="https://github.com/JuanCruzGh/GlacierFaciesAlgorithm/assets/87556377/4c24f667-085a-4c50-ba23-3f7793936b59" alt="image">
 </div>
 
 # Glacier Facies Algorithm 
