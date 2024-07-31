@@ -23,8 +23,14 @@ References of the output classification categories:
 | 6      | Shadow on Snow     |
 | 8      | Unspecified Shadow |
 
+
 </div>
 
 *Aclaration: main_patches_debris_jcgtV5 is the new module that fixes the problem with the output ‘{AVS_DSM: xxx_number_xxx}’ in both the debris emergence altitude and standard deviations (SLA and DEA).*
 
 *Link to Zeller (2020): https://lean-gate.geo.uzh.ch/typo3conf/ext/qfq/Classes/Api/download.php/mastersThesis/752*
+
+# Working on...
+1. Threshold sensitivity analysis
+2. Landsat 07 gaps issue managment
+3. Remove duplicate issue
