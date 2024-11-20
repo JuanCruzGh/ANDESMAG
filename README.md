@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/JuanCruzGh/GlacierFaciesAlgorithm/assets/87556377/4c24f667-085a-4c50-ba23-3f7793936b59" alt="image">
-</div>
-
 # Glacier Facies Algorithm 
 
 (!) REMOVE DUPLICATE ISSUE: I found a problem with the module that removes duplicate images, i suggest to mute it in the main code until further notice! Currently the no_duplicate function is removing both repeated images instead of keeping only one.
