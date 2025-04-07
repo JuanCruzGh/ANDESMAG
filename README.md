@@ -1,3 +1,6 @@
+
+![algorithm example](https://github.com/user-attachments/assets/470c2051-e6ff-4ea3-b6b8-e8cc97054a18)
+
 # Glacier Facies Algorithm 
 
 (!) REMOVE DUPLICATE ISSUE: I found a problem with the module that removes duplicate images, i suggest to mute it in the main code until further notice! Currently the no_duplicate function is removing both repeated images instead of keeping only one.
