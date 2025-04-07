@@ -1,9 +1,6 @@
 
-![algorithm example](https://github.com/user-attachments/assets/470c2051-e6ff-4ea3-b6b8-e8cc97054a18)
-
+![algorithm example2](https://github.com/user-attachments/assets/d11834dd-23bd-48d8-928c-9268bb65f417)
 # Glacier Facies Algorithm 
-
-(!) REMOVE DUPLICATE ISSUE: I found a problem with the module that removes duplicate images, i suggest to mute it in the main code until further notice! Currently the no_duplicate function is removing both repeated images instead of keeping only one.
 
 Automated classification algorithm of glacial facies based on Zeller (2020) GEE version. In this version (jcgtV2) you can modify the classification thresholds directly in the main code (FaciesMapBatch_jcgtV2.py). Also the input of DEMs and the asset with glacier boundaries are in the main code. FaciesMapBatch_jcgtV2 its the main code.
 
