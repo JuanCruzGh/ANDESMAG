@@ -1,5 +1,4 @@
 
-![algorithm example2](https://github.com/user-attachments/assets/d11834dd-23bd-48d8-928c-9268bb65f417)
 # Glacier Facies Algorithm 
 
 Automated classification algorithm of glacial facies based on Zeller (2020) GEE version. In this version (jcgtV2) you can modify the classification thresholds directly in the main code (FaciesMapBatch_jcgtV2.py). Also the input of DEMs and the asset with glacier boundaries are in the main code. FaciesMapBatch_jcgtV2 its the main code.
@@ -22,6 +21,6 @@ References of the output classification categories:
 
 </div>
 
-*Aclaration: main_patches_debris_jcgtV5 is the new module that fixes the problem with the output ‘{AVS_DSM: xxx_number_xxx}’ in both the debris emergence altitude and standard deviations (SLA and DEA).*
+*Results table are in (-link and doi pending-)*
 
 *Link to Zeller (2020): https://lean-gate.geo.uzh.ch/typo3conf/ext/qfq/Classes/Api/download.php/mastersThesis/752*
