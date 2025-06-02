@@ -1,5 +1,5 @@
 
-# Glacier Facies Algorithm 
+# A<sup>2</sup>MAG: Andes Automated Snow Mapping on Glaciers
 
 Automated classification algorithm of glacial facies based on Zeller (2020) GEE version. In this version (jcgtV2) you can modify the classification thresholds directly in the main code (FaciesMapBatch_jcgtV2.py). Also the input of DEMs and the asset with glacier boundaries are in the main code. FaciesMapBatch_jcgtV2 its the main code.
 
