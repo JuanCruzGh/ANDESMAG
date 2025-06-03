@@ -25,7 +25,7 @@ References of the output classification categories:
 
 *Tutorial in progress ...*
 
-*References:*
+## References:
 
 *Ghilardi Truffa et al (in prep)* Evolution of debris-covered glaciers in the Central Andes of Argentina: trends over the past four decades.
 
