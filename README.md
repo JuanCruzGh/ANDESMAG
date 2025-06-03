@@ -30,8 +30,6 @@ References of the output classification categories:
 
 </div>
 
-*Results table are in (-link and doi pending-)*
-
 *Tutorial in progress ...*
 
 ## References:
