@@ -23,7 +23,7 @@ References of the output classification categories:
 
 *Results table are in (-link and doi pending-)*
 
-*How to use: ... still working on ...*
+*Tutorial in progress ...*
 
 *References:*
 
