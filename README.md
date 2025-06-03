@@ -27,7 +27,7 @@ References of the output classification categories:
 
 *References:*
 
-*Ghilardi Truffa et al (in prep)*
+*Ghilardi Truffa et al (in prep)* Evolution of debris-covered glaciers in the Central Andes of Argentina: trends over the past four decades.
 
 *Zeller J (2020)* Automated classiﬁcation of supraglacial surface facies for snow line altitude monitoring using the Google Earth Engine. https://lean-gate.geo.uzh.ch/typo3conf/ext/qfq/Classes/Api/download.php/mastersThesis/752
 
