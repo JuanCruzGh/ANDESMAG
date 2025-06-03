@@ -1,5 +1,4 @@
 
-<div align="center">
 # ANDESMAG
 ##  Andean Automated Surface Mapping on Glaciers
 
