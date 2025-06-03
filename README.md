@@ -1,8 +1,16 @@
 
 # ANDESMAG: Andean Automated Surface Mapping on Glaciers
 
-Automated classification algorithm of glacial facies based on ASMAG Algorithm (Rastrner and others, 2019; Zeller, 2020). In this version (jcgtV2) you can modify the classification thresholds directly in the main code (FaciesMapBatch_jcgtV2.py). Also the input of DEMs and the asset with glacier boundaries are in the main code.
+In this version, multiple parameters can be modified directly from the main code, including the classification thresholds. The script is also structured to efficiently run on a list of glaciers (based on ID) across multiple years. A Google Earth Engine account is required, and the working polygons must be stored as an asset, as they are needed as input for the algorithm.
+The algorithm allows exporting three types of outputs:
 
+1) the raw working images (.tif),
+  
+2) the classified images (.tif), and
+   
+3)the tables containing the metrics derived from each image (.csv).
+
+These outputs can be exported either to Google Drive or to a local directory, as defined by the user in the main code.
 **Asset INPUT: It is important that the input asset provided to the code contains an attribute called 'ID_local' in its attribute table, where each glacier's ID is listed.**
 
 References of the output classification categories:
