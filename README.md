@@ -1,5 +1,5 @@
 
-# A<sup>2</sup>FMAG: Andean Automated Facies Mapping on Glaciers
+# ANDESMAG: Andean Automated Surface Mapping on Glaciers
 
 Automated classification algorithm of glacial facies based on Zeller (2020) GEE version. In this version (jcgtV2) you can modify the classification thresholds directly in the main code (FaciesMapBatch_jcgtV2.py). Also the input of DEMs and the asset with glacier boundaries are in the main code. FaciesMapBatch_jcgtV2 its the main code.
 
@@ -22,5 +22,9 @@ References of the output classification categories:
 </div>
 
 *Results table are in (-link and doi pending-)*
+*How to use: ... still working on ...*
 
-*Link to Zeller (2020): https://lean-gate.geo.uzh.ch/typo3conf/ext/qfq/Classes/Api/download.php/mastersThesis/752*
+*References:*
+*Ghilardi Truffa et al (in prep)*
+*Zeller J (2020)* Automated classiﬁcation of supraglacial surface facies for snow line altitude monitoring using the Google Earth Engine. https://lean-gate.geo.uzh.ch/typo3conf/ext/qfq/Classes/Api/download.php/mastersThesis/752
+*Rastner P and others (2019)* On the Automated Mapping of Snow Cover on Glaciers and Calculation of Snow Line Altitudes from Multi-Temporal Landsat Data. Remote Sensing 11(12), 1410. doi:10.3390/rs11121410.
