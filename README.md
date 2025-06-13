@@ -33,6 +33,12 @@ References of the output classification categories:
 
 *Tutorial in progress ...*
 
+# Dependencies
+earthengine-api
+geemap
+geopandas
+pandas
+
 ## References:
 
 *Ghilardi Truffa et al (in prep)* Evolution of debris-covered glaciers in the Central Andes of Argentina: trends over the past four decades.
