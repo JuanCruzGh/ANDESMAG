@@ -2,7 +2,7 @@
 # ANDESMAG
 ##  Andean Automated Surface Mapping on Glaciers
 
-In this version, multiple parameters can be modified directly from the main code, including the classification thresholds. The script is also structured to efficiently run on a list of glaciers (based on ID) across multiple years. A Google Earth Engine account is required, and the working polygons must be stored as an asset, as they are needed as input for the algorithm.
+In this version of ASMAG (Rastner et al., 2019), multiple parameters can be modified directly from the main code, including the classification thresholds. The script is also structured to efficiently run on a list of glaciers (based on ID) across multiple years. A Google Earth Engine account is required, and the working polygons must be stored as an asset, as they are needed as input for the algorithm.
 The algorithm allows exporting three types of outputs:
 
 1)  Raw images (.tif),
