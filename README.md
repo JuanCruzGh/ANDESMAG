@@ -33,10 +33,14 @@ References of the output classification categories:
 
 *Tutorial in progress ...*
 
-# Dependencies
+## Dependencies
+
 earthengine-api
+
 geemap
+
 geopandas
+
 pandas
 
 ## References:
