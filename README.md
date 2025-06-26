@@ -10,8 +10,10 @@ This tutorial presents the usage of **ANDESMAG**, a glacier facies classificatio
 The algorithm processes optical imagery (e.g., Landsat, Sentinel) to classify glacier surface facies such as **snow**, **ice**, **debris**, and **water**.
 
 From these classified images, various glacier monitoring metrics are extracted, including:
-- **SLA** (Snow Line Altitude)
-- **DAR** (Debris-covered Area Ratio)
+* **SLA** (Snow Line Altitude)
+* **SCA** (Snow Cover Area)
+* **DEE** (Debris Emergence Elevation)
+* **DCA** (Debris Covered Area)
 - and others.
 
 These results are exported as CSV tables for further analysis.
@@ -120,19 +122,19 @@ One metrics table (e.g., RGI2000-v7.0-C-17-21353_2019_2019_360_365_metrics.csv)
 ## Visualizing Results
 #### Run view_results.py to display:
 
-* The input image
+1) The input image
 
-* The facies-classified image
+2) The facies-classified image
 
-* A plot of extracted metrics:
+3) A plot of extracted metrics:
 
-** SLA (Snow Line Altitude)
+* SLA (Snow Line Altitude)
 
-** SCA (Snow Cover Area)
+* SCA (Snow Cover Area)
 
-** DEE (Debris Emergence Elevation)
+* DEE (Debris Emergence Elevation)
 
-** DCA (Debris Covered Area)
+* DCA (Debris Covered Area)
 
 <p align="center">
   <img width="337" alt="example_ANDESMAG" src="https://github.com/user-attachments/assets/b978bb78-34b0-4cab-98b5-f88cdcd20a1b" />
