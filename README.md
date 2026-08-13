@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/800968041.svg)](https://doi.org/10.5281/zenodo.21922065)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21922065-blue)](https://doi.org/10.5281/zenodo.21922065)
 
 # ANDESMAG
 ##  Andean Automated Surface Mapping on Glaciers
