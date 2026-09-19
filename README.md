@@ -1,8 +1,13 @@
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21922065-blue)](https://doi.org/10.5281/zenodo.21922065)
 
-# ANDESMAG
-##  Andean Automated Surface Mapping on Glaciers
----
+<h1>
+  <img src="https://github.com/user-attachments/assets/cb0a3bda-7dea-402f-9139-b7524a176e2e"
+       width="60"
+       valign="middle">
+  ANDESMAG
+</h1>
+
+<h2>Andean Automated Surface Mapping on Glaciers</h2>
 
 ## Introduction
 
