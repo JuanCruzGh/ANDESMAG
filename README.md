@@ -142,11 +142,6 @@ One metrics table (e.g., RGI2000-v7.0-C-17-21353_2019_2019_360_365_metrics.csv)
 
 * DCA (Debris Covered Area)
 
-<p align="center">
-  <img width="337" alt="example_ANDESMAG" src="https://github.com/user-attachments/assets/b978bb78-34b0-4cab-98b5-f88cdcd20a1b" />
-</p>
-
-
 ## Classification Categories
 
 | Number | Class              |
