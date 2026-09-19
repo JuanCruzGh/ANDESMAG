@@ -1,3 +1,11 @@
+<h1>
+  <img src="https://github.com/user-attachments/assets/cb0a3bda-7dea-402f-9139-b7524a176e2e"
+       width="60"
+       valign="middle">
+  ANDESMAG
+</h1>
+
+<h2>Andean Automated Surface Mapping on Glaciers</h2>
 
 # ANDESMAG
 ##  Andean Automated Surface Mapping on Glaciers
