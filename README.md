@@ -158,16 +158,8 @@ One metrics table (e.g., RGI2000-v7.0-C-17-21353_2019_2019_360_365_metrics.csv)
 
 ## References
 
-*Ghilardi Truffa et al. (in prep.)
-Evolution of debris-covered glaciers in the Central Andes of Argentina: trends over the past four decades.*
+*Ghilardi Truffa JC, Ruiz L, Hartl L, et al. Evolution of debris cover over glaciers in the Central Andes (1985–2024). Journal of Glaciology. 2026;72:e105. doi:10.1017/jog.2026.10217*
 
-*Zeller, J. (2020)
-Automated classification of supraglacial surface facies for snow line altitude monitoring using Google Earth Engine.*
-
-*Rastner, P. et al. (2019)
-On the Automated Mapping of Snow Cover on Glaciers and Calculation of Snow Line Altitudes from Multi-Temporal Landsat Data.
-Remote Sensing 11(12), 1410. https://doi.org/10.3390/rs11121410*
+*Rastner, P. et al. (2019) On the Automated Mapping of Snow Cover on Glaciers and Calculation of Snow Line Altitudes from Multi-Temporal Landsat Data. Remote Sensing 11(12), 1410. https://doi.org/10.3390/rs11121410*
 
 *Zeller J (2020)* Automated classiﬁcation of supraglacial surface facies for snow line altitude monitoring using the Google Earth Engine. https://lean-gate.geo.uzh.ch/typo3conf/ext/qfq/Classes/Api/download.php/mastersThesis/752
-
-*Rastner P and others (2019)* On the Automated Mapping of Snow Cover on Glaciers and Calculation of Snow Line Altitudes from Multi-Temporal Landsat Data. Remote Sensing 11(12), 1410. doi:10.3390/rs11121410.
